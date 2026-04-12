@@ -4,7 +4,7 @@ Tiantian(Crystal) ZHANG @ Columbia University Undegrad  contact: t.zhang8@columb
 
 & Jierui(Jerry) Zuo@ UW incoming Phd,Tsinghua undegrad contact: zuojr22@gmail.com (mainy repository and coding issue)
 
-& Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyun, contact: (mainly repository and coding/resources issue)
+& Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyun, contact: siyu_lin@stu.pku.edu.cn (mainly repository and coding/resources issue)
 
 This repository contains a minimal public benchmark for LLM preference optimization on a single held-out setting:
 
