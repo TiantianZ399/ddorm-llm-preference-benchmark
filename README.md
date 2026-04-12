@@ -1,10 +1,12 @@
 # 🔯 DEEP DECISION OPTIMIZATION 📈
 DDO-RM for LLM Preference Optimization: A Minimal Held-Out Benchmark against DPO <p>
-Tiantian(Crystal) ZHANG @ Columbia University Undegrad  contact: t.zhang8@columbia.edu (mainly paper idea dicussion)
+Tiantian(Crystal) ZHANG @ Columbia University Undegrad  contact: t.zhang8@columbia.edu, linkedin: crystal-zhangg
 
-& Jierui(Jerry) Zuo@ UW incoming Phd,Tsinghua undegrad contact: zuojr22@gmail.com (mainy repository and coding issue)
+& Jierui(Jerry) Zuo@ UW incoming Phd,Tsinghua undegrad contact: zuojr22@gmail.com 
 
-& Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyun, contact: siyu_lin@stu.pku.edu.cn (mainly repository and coding/resources issue)
+& Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyun, contact: siyu_lin@stu.pku.edu.cn 
+
+Happy to contact and discuss ideas through email.
 
 This repository contains a minimal public benchmark for LLM preference optimization on a single held-out setting:
 
