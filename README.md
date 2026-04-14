@@ -5,7 +5,7 @@ linkedin: crystal-zhangg, wechat: BestWillCome
 
 & Jierui(Jerry) Zuo@ UW incoming Phd,Tsinghua undegrad contact: zuojr22@mails.tsinghua.edu.cn
 
-& Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyun, contact: siyu_lin@stu.pku.edu.cn 
+& Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyuan, contact: siyu_lin@stu.pku.edu.cn 
 
 & Junxiao Chen @ Columbia Business School, contact: jc6619@columbia.edu 
 
