@@ -1,4 +1,4 @@
-# 🔯 DEEP DECISION OPTIMIZATION 📈
+# 🔯 DISTRIBUTION DECISION OPTIMIZATION 📈
 DDO-RM for LLM Preference Optimization: A Minimal Held-Out Benchmark against DPO <p>
 Tiantian(Crystal) ZHANG @ Columbia Engineering  contact: t.zhang8@columbia.edu, 
 linkedin: crystal-zhangg, wechat: BestWillCome
